@@ -18,5 +18,4 @@ function ternaryCheckCity(city) {
     default:
     return "No go.";
   }
-
 }
