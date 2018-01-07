@@ -1,2 +1,4 @@
 // Write your code in this file!
-function scuberGreetingForFeet(distance)
+function scuberGreetingForFeet(distance) {
+  if scuberGreetingForFeet(<= 400)
+}
